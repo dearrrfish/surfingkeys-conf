@@ -1,4 +1,5 @@
 *.priv.js
+*.custom.js
 
 ### Node ###
 # Logs

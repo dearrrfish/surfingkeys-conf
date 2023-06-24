@@ -1,6 +1,6 @@
-import theme from "./theme.js"
-import keys from "./keys.js"
-import searchEngines from "./search-engines.js"
+import theme from "theme" // webpack resolve
+import keys from "keys" // webpack resolve
+import searchEngines from "search-engines"  // webpack resolve
 
 export default {
   settings: {

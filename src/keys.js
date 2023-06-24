@@ -1,4 +1,4 @@
-import actions from "./actions.js"
+import actions from "actions" // webpack resolve
 import api from "./api.js"
 import help from "./help.js"
 import priv from "./conf.priv.js"
